@@ -5,10 +5,10 @@ expected to graduate in 2025. With strong communication skills and a passion for
 I am committed to continuous improvement and fostering a supportive work environment.
 
 ## Skills:
-Programming Languages: 
+ - Programming Languages: 
 Python, C, HTML.
 
-Technologies:
+- Technologies:
 Artificial Intelligence (AI), Machine Learning (ML), Deep Learning (DL).
 
 ## Non-Technical Skills:
