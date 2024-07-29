@@ -34,10 +34,15 @@ Robotic Process Automation - Great Learning
 
 Python for Data Science - NPTEL
 
-## Contact Me
-Email: uma200427@gmail.com
-
-LinkedIn: Uma Maheswari
+## Connect with Me
+<div style="display: flex; align-items: center; margin-left: 3mm;">
+    <a href="https://www.linkedin.com/in/uma-maheswari-1530b8256/">
+        <img src="https://img.shields.io/badge/-LinkedIn-0077B5?logo=linkedin&logoColor=white" alt="LinkedIn"/>
+    </a>
+    <a href="uma200427@gmail.com" style="margin-left: 3mm;">
+        <img src="https://img.shields.io/badge/-Email-D14836?logo=gmail&logoColor=white" alt="Email"/>
+    </a>
+</div>
 
 Location: Coimbatore, India.
 
