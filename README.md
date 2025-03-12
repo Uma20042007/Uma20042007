@@ -6,7 +6,7 @@ I am committed to continuous improvement and fostering a supportive work environ
 
 ## Skills:
  - Programming Languages: 
-Python, C, HTML.
+Python, C, HTML,CSS, Java Script,.
 
 - Technologies:
 Artificial Intelligence (AI), Machine Learning (ML), Deep Learning (DL).
